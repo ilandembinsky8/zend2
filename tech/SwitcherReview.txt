@@ -20,3 +20,4 @@
 מחיר: 395 שקל. ניתן לרכוש באתר היצרן.
 http://www.switcher.co.il/
 this line was added after the branch scarmel was created
+to test branch merge with master
