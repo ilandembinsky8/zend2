@@ -19,3 +19,5 @@
 
 מחיר: 395 שקל. ניתן לרכוש באתר היצרן.
 http://www.switcher.co.il/
+
+this line wass added to test branch
